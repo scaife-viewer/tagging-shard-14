@@ -1,0 +1,417 @@
+frag128	0	Hipponactis	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	Hipponactis	ROOT	0
+frag128	1	fragmentum	ADV	Df		fragmentum	discourse	0
+frag128	2	Μοῦσά	NOUN	Nb	Case=Voc|Gender=Fem|Number=Sing	Μοῦσά	vocative	0
+frag128	3	μοι	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ	iobj	0
+frag128	4	Εὐρυμεδοντιάδεα	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	Εὐρυμεδοντιάδης	obj	0
+frag128	5	,	PUNCT	Z		,	appos	4
+frag128	6	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	7
+frag128	7	πολτοχάρυβδιν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	πολτοχάρυβδιν	appos	4
+frag128	8	,	PUNCT	Z		,	punct	0
+frag128	9	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	10
+frag128	10	ἐγγαστριμάχαιραν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἐγγαστριμάχαιρα	ROOT	10
+frag128	11	,	PUNCT	Z		,	nmod	10
+frag128	12	ὃς	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	ὅς	nsubj	13
+frag128	13	ἐσθίει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἐσθίω	acl	11
+frag128	14	οὐ	ADV	Df	Polarity=Neg	οὐ	advmod	16
+frag128	15	κατὰ	ADP	R-		κατά	case	16
+frag128	16	κόσμον	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	κόσμος	obl	13
+frag128	17	,	PUNCT	Z		,	nmod	10
+frag128	18	ἔννεφʼ	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	ἐνέπω	appos	10
+frag128	19	,	PUNCT	Z		,	ROOT	19
+frag128	20	ὅπως	SCONJ	G-		ὅπως	mark	25
+frag128	21	ψηφῖσιν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ψηφίς	obj	22
+frag128	22	ἀγεὶς	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ἀγεὶς	dep	25
+frag128	23	κακὸν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	κακός	amod	21
+frag128	24	οἶτον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	οἶτος	conj	21
+frag128	25	ὄληται	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	ὄλλυμι	ccomp	19
+frag128	26	βουλῇ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	βουλή	obl	25
+frag128	27	δημοσίῃ	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	δημόσιος	amod	29
+frag128	28	παρὰ	ADP	R-		παρά	case	29
+frag128	29	θῖνʼ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	θίς	obl	25
+frag128	30	ἁλὸς	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	ἅλς	nmod	29
+frag128	31	ἀτρυγέτοιο	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	ἀτρύγετος	amod	30
+frag128	32	.	PUNCT	Z		.	punct	19
+similes	0	HOMERI	ADV	Df		HOMERI	vocative	6
+similes	1	LOCI	ADV	Df		LOCI	advmod	0
+similes	2	SIMILES	ADV	V-		SIMILES	dep	0
+similes	3	1	ADV	V-		1	advmod	0
+similes	4	ἄνδρα	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	ἀνήρ	obj	6
+similes	5	μοι	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	ἐγώ	iobj	6
+similes	6	ἔννεπε	VERB	V-	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	ἐνέπω	ROOT	6
+similes	7	,	PUNCT	Z		,	punct	6
+similes	8	Μοῦσα	PROPN	Ne	Case=Voc|Gender=Fem|Number=Sing	Μοῦσα	ROOT	8
+similes	9	α	PRON	Pr	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	α	nsubj	10
+similes	10	1	ADV	V-		1	ROOT	10
+similes	11	2	ADV	Df		2	advmod	10
+similes	12	ἐπεὶ	SCONJ	G-		ἐπεί	mark	19
+similes	13	σύ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	σύ	nsubj	19
+similes	14	περ	ADV	Df		πέρ	advmod	19
+similes	15	οὐ	ADV	Df	Polarity=Neg	οὐ	advmod	17
+similes	16	κατὰ	ADP	R-		κατά	case	17
+similes	17	κόσμον	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	κόσμος	obl	18
+similes	18	|	ADV	Df		|	obl	19
+similes	19	αἰτίζεις	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	αἰτίζω	advcl	11
+similes	20	υ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	υ	obj	19
+similes	21	181	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	181	advcl	19
+similes	22	sq.	PUNCT	Z		sq.	punct	10
+similes	23	3	CCONJ	C-		3	cc	29
+similes	24	σὺ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	σύ	nsubj	29
+similes	25	δέ	ADV	Df		δέ	discourse	29
+similes	26	κεν	ADV	Df		ἄν	advmod	29
+similes	27	κακὸν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	κακός	obj	29
+similes	28	οἶτον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	οἶτος	obj	29
+similes	29	ὄληαι	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	ὄλλυμι	ROOT	29
+similes	30	*	ADV	Pr		*	dep	29
+similes	31	Γ	ADV	Df		Γ	dep	29
+similes	32	417	ADV	Df		417	advmod	35
+similes	33	κακὸς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	κακός	nsubj	35
+similes	34	κακὸν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	κακός	obj	35
+similes	35	ἡγηλάζει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἡγηλάζω	dep	29
+similes	36	*	ADV	Df		*	dep	35
+similes	37	ρ	PROPN	Df		ρ	dep	35
+similes	38	217	CCONJ	C-		217	cc	29
+similes	39	4	ADV	Nb		4	conj	29
+similes	40	παρὰ	ADP	R-		παρά	case	41
+similes	41	θῖνʼ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	θίς	obl	39
+similes	42	ἁλὸς	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	ἅλς	nmod	41
+similes	43	ἀτρυγέτοιο	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	ἀτρύγετος	amod	42
+similes	44	*	ADV	Df		*	dep	29
+similes	45	Α	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	Α	dep	29
+similes	46	316	PUNCT	Z		316	punct	29
+testimonium	0	TESTIMONIVM	ADV	Nb		TESTIMONIVM	ROOT	0
+testimonium	1	Ath.	PUNCT	Z		Ath.	punct	0
+testimonium	2	XV	ADV	Nb		XV	advmod	3
+testimonium	3	698b	ADV	V-		698b	ROOT	3
+testimonium	4	:	ADV	Df		:	punct	3
+testimonium	5	Πολέμων	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Πολέμων	nsubj	20
+testimonium	6	δʼ	ADV	Df		δέ	discourse	20
+testimonium	7	ἐν	ADP	R-		ἐν	case	9
+testimonium	8	τῷ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	9
+testimonium	9	δωδεκάτῳ	ADJ	Mo	Case=Dat|Gender=Neut|Number=Sing	δωδέκατος	obl	20
+testimonium	10	τῶν	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	ὁ	det	12
+testimonium	11	πρὸς	ADP	R-		πρός	case	12
+testimonium	12	Τίμαιον	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	Τίμαιος	nmod	9
+testimonium	13	περὶ	ADP	R-		περί	case	17
+testimonium	14	τῶν	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	17
+testimonium	15	τὰς	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	16
+testimonium	16	παρῳδίας	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	παρῳδεία	obj	17
+testimonium	17	γεγραφότων	VERB	V-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	γράφω	obl	20
+testimonium	18	ἱστορῶν	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	ἱστορέω	advcl	20
+testimonium	19	τάδε	ADJ	Pd	Case=Acc|Gender=Neut|Number=Plur	ὅδε	obj	20
+testimonium	20	γράφει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	γράφω	conj	3
+testimonium	21	...	PUNCT	Z		...	punct	3
+testimonium	22	εὐρετὴν	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	εὐρετή	xcomp	28
+testimonium	23	μὲν	ADV	Df		μέν	discourse	28
+testimonium	24	οὖν	ADV	Df		οὖν	discourse	28
+testimonium	25	τοῦ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	ὁ	det	26
+testimonium	26	γένους	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	γένος	dep	28
+testimonium	27	Ἱππώνακτα	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	Ἱππῶναξ	dep	28
+testimonium	28	φατέον	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	φημί	ROOT	28
+testimonium	29	τὸν	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	30
+testimonium	30	ἰαμβοποιόν	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	ἰαμβοποιός	dep	28
+testimonium	31	.	PUNCT	Z		.	punct	28
+testimonium	32	λέγει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	λέγω	ROOT	32
+testimonium	33	γὰρ	ADV	Df		γάρ	discourse	32
+testimonium	34	οὕτως	ADV	Df		οὕτως	advmod	32
+testimonium	35	ἐν	ADP	R-		ἐν	case	37
+testimonium	36	τοῖς	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	ὁ	det	37
+testimonium	37	ἑξαμέτροις	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	ἑξαμέτρος	obl	32
+testimonium	38	·	PUNCT	Z		·	punct	32
+testimonium	39	Μοῦσα	NOUN	Nb	Case=Voc|Gender=Fem|Number=Sing	Μοῦσα	vocative	42
+testimonium	40	—	ADV	Df		—	dep	39
+testimonium	41	ἀτρυγέτοιο	ADJ	A-	Case=Gen|Degree=Pos|Number=Sing	ἀτρύγετος	amod	39
+testimonium	42	.	PUNCT	Z		.	ROOT	42
+variants	0	VARIETAS	ADV	Df		VARIETAS	ROOT	0
+variants	1	LECTIONIS	ADV	Df		LECTIONIS	advmod	0
+variants	2	ln	ADV	V-		ln	vocative	0
+variants	3	testimonio	DET	Nb	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	testimonio	amod	4
+variants	4	Ἱππώνακτε	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	Ἱππώνακτε	appos	2
+variants	5	φατέον	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	φημί	parataxis	0
+variants	6	Α	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	Α	det	8
+variants	7	ἐν	ADP	R-		ἐν	case	8
+variants	8	τόνοις	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	τόνος	obl	5
+variants	9	ἑξαμέτροις	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	ἑξαμέτρος	amod	8
+variants	10	Meineke	ADV	V-		Meineke	advcl	5
+variants	11	οὗτος	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	οὗτος	dislocated	5
+variants	12	Α	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	Α	orphan	11
+variants	13	,	PUNCT	Z		,	punct	0
+variants	14	οὕτως	ADV	Df		οὕτως	advmod	15
+variants	15	Schrader	ADV	V-		Schrader	ROOT	15
+variants	16	1	ADV	Nb		1	ccomp	15
+variants	17	πολτοχάρυβδιν	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	πολτοχάρυβδιν	dep	15
+variants	18	Wachsmuth	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	Wachsmuth	conj	15
+variants	19	:	ADV	Df		:	ccomp	15
+variants	20	ποντοχάρυβδιν	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	ποντοχάρυβδις	conj	15
+variants	21	Α	PRON	Pr	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	Α	nsubj	24
+variants	22	,	PUNCT	Z		,	amod	23
+variants	23	παντοχάρυβδιν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	παντοχάρυβδιν	xcomp	24
+variants	24	Bergk	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	Bergk	dep	15
+variants	25	in	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	in	dep	15
+variants	26	Poet.	PUNCT	Z		Poet.	ROOT	26
+variants	27	Lyr.	PUNCT	Z		Lyr.	ROOT	27
+variants	28	Graec.	PUNCT	Z		Graec.	ROOT	28
+variants	29	editione	ADV	Df		editione	ROOT	29
+variants	30	prima	ADV	Df		primaς	advmod	29
+variants	31	et	ADV	V-		et	advmod	29
+variants	32	Meineke	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	Meineke	parataxis	29
+variants	33	2	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	appos	29
+variants	34	ἐνγαστριμαχαιρανος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	ἐνγαστριμαχαιρανος	appos	29
+variants	35	Α	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	Α	obj	38
+variants	36	3	ADP	R-		3	case	37
+variants	37	ψηφῖσιν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ψηφίς	obl	38
+variants	38	ἀγεὶς	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ἀγεὶς	acl	29
+variants	39	Stadtmueller	ADV	V-		Stadtmueller	discourse	29
+variants	40	:	SCONJ	G-		:	discourse	29
+variants	41	ψηφῖδι	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	ψηφίς	obl	29
+variants	42	Α	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	Α	fixed	29
+variants	43	,	PUNCT	Z		,	advcl	29
+variants	44	κακὸς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	κακός	amod	45
+variants	45	suppl.	PUNCT	Z		suppl.	punct	29
+variants	46	Cobet	ADV	Nb		Cobet	ROOT	46
+variants	47	pro	ADV	Df		pro	advmod	46
+variants	48	vulgato	ADV	Df		vulgato	dep	46
+variants	49	κακῇ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	κακός	advmod	50
+variants	50	ὀλεῖται	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	ὄλλυμι	ccomp	48
+variants	51	Cobet	ADV	Nb		Cobet	advcl	46
+variants	52	probante	ADV	Nb		probante	parataxis	46
+variants	53	Tenbrinkio	ADV	Nb		Tenbrinkio	parataxis	46
+variants	54	et	ADV	Nb		et	parataxis	46
+variants	55	Meinekio.	PUNCT	Z		Meinekio.	punct	46
+commentary	0	COMMENTARIVS	ADV	Nb		COMMENTARIVS	ROOT	0
+commentary	1	V.	PUNCT	Z		V.	punct	0
+commentary	2	l.	PUNCT	Z		l.	punct	0
+commentary	3	Corrige	ADV	Pi	PronType=Int	Corrige	ROOT	3
+commentary	4	πολτοχάρυβδιν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	πολτοχάρυβδιν	obj	3
+commentary	5	;	PUNCT	Z		;	vocative	3
+commentary	6	nequaquam	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	nequaquam	ROOT	6
+commentary	7	enim	ADV	Df		enim	amod	8
+commentary	8	ποντοφάρυγξ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ποντοφάρυγξ	nsubj	6
+commentary	9	potest	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	potest	parataxis	6
+commentary	10	comparari	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	comparari	appos	8
+commentary	11	;	PUNCT	Z		;	appos	8
+commentary	12	ipsa	ADJ	Du	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	ipsa	ROOT	12
+commentary	13	vero	ADV	Df		vero	dislocated	12
+commentary	14	Χάρυβδις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	Χάρυβδις	nsubj	12
+commentary	15	a	ADV	Df		a	advmod	12
+commentary	16	qua	CCONJ	V-		qua	parataxis	12
+commentary	17	imago	ADV	Nb		imago	parataxis	12
+commentary	18	ducitur	ADV	Nb		ducitur	conj	12
+commentary	19	,	PUNCT	Z		,	punct	12
+commentary	20	maritima	ADV	Nb		maritima	ROOT	20
+commentary	21	est.	PUNCT	Z		est.	punct	20
+commentary	22	Pessime	ADV	Nb		Pessime	ROOT	22
+commentary	23	igitur	ADV	Nb		igitur	advmod	22
+commentary	24	dicitur	ADV	Nb		dicitur	parataxis	22
+commentary	25	ποντοχάρυβδις	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	ποντοχάρυβδις	conj	22
+commentary	26	.	PUNCT	Z		.	punct	22
+commentary	27	Immo	ADV	Nb		Immo	ROOT	27
+commentary	28	fuit	ADV	Df		fuit	advmod	27
+commentary	29	addendum	ADV	Nb		addendum	parataxis	27
+commentary	30	aliquid	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	aliquidς	parataxis	27
+commentary	31	quo	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	quo	parataxis	27
+commentary	32	vel	ADV	Nb		vel	parataxis	27
+commentary	33	ubi	ADV	Nb		ubi	parataxis	27
+commentary	34	habitet	ADV	Nb		habitet	parataxis	27
+commentary	35	altera	ADV	Nb		altera	parataxis	27
+commentary	36	illa	ADV	Nb		illa	parataxis	27
+commentary	37	Charybdis	ADV	Nb		Charybdis	parataxis	27
+commentary	38	significetur	CCONJ	Nb		significetur	parataxis	27
+commentary	39	(	PUNCT	G-		(	parataxis	27
+commentary	40	ut	ADV	Df		ut	ROOT	40
+commentary	41	γαστροχάρυβδις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	γαστροχάρυβδις	ROOT	41
+commentary	42	quidam	CCONJ	V-		quidam	ROOT	42
+commentary	43	audit	ADV	Nb		audit	ROOT	43
+commentary	44	apud	ADV	V-		apud	advmod	43
+commentary	45	Cratinum	ADV	Df		Cratinum	dislocated	43
+commentary	46	Ι	VERB	Nb	Tense=Pres|VerbForm=Inf|Voice=Act	Ι	nsubj	43
+commentary	47	121	ADV	Pp		121	iobj	48
+commentary	48	Kock	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	Kock	ROOT	48
+commentary	49	)	ADV	Z		)	discourse	48
+commentary	50	vel	ADV	V-		vel	dislocated	48
+commentary	51	quid	ADV	Nb		quid	dislocated	48
+commentary	52	devoret.	PUNCT	Z		devoret.	punct	48
+commentary	53	Alterum	ADV	Nb	PronType=Int	Alterum	xcomp	54
+commentary	54	praetuli	ADV	V-		praetuliς	ROOT	54
+commentary	55	;	PUNCT	Z		;	vocative	54
+commentary	56	cf.	PUNCT	Z		cf.	punct	54
+commentary	57	Ps.-Plautinum	ADV	Df		Ps.-Plautinum	ROOT	57
+commentary	58	parasitum	ADV	Nb		parasitum	advmod	57
+commentary	59	cui	ADV	Nb		cui	parataxis	57
+commentary	60	nomen	ADV	Nb		nomen	parataxis	57
+commentary	61	fuit	ADV	C-		fuit	cc	57
+commentary	62	Πολτοφαγωνίδης	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	Πολτοφαγωνίδης	conj	57
+commentary	63	(	PUNCT	Df		(	dep	57
+commentary	64	cf.	PUNCT	Z		cf.	punct	57
+commentary	65	Ritschl	ADV	Nb		Ritschl	ROOT	65
+commentary	66	op.	PUNCT	Z		op.	punct	65
+commentary	67	IIl	ADV	Nb		IIl	ROOT	67
+commentary	68	p.	PUNCT	Z		p.	punct	67
+commentary	69	328	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	328	ROOT	69
+commentary	70	)	ADV	Z		)	appos	69
+commentary	71	.	PUNCT	Z		.	punct	69
+commentary	72	Wachsmuthius.	PUNCT	Z		Wachsmuthius.	ROOT	72
+commentary	73	V.	PUNCT	Z		V.	ROOT	73
+commentary	74	2.	PUNCT	Z		2.	ROOT	74
+commentary	75	Hesychius	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	Hesychius	ROOT	75
+commentary	76	:	ADV	Df		:	advmod	75
+commentary	77	ἐγγαστριμάχαιραν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ἐγγαστριμάχαιρα	obj	75
+commentary	78	·	PUNCT	Z		·	punct	75
+commentary	79	τὴν	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	83
+commentary	80	ἐν	ADP	R-		ἐν	case	82
+commentary	81	τῇ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	ὁ	det	82
+commentary	82	γαστρὶ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	γαστήρ	obl	83
+commentary	83	κατατέμνουσαν	VERB	V-	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	κατατέμνουσαν	nmod	75
+commentary	84	.	PUNCT	Z		.	punct	75
+commentary	85	Cf.	PUNCT	Z		Cf.	ROOT	85
+commentary	86	ἐγγαστρίμυθος	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἐγγαστρίμυθος	ROOT	86
+commentary	87	,	PUNCT	Z		,	punct	86
+commentary	88	ἐγγαστρίμαντις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ἐγγαστρίμαντις	ROOT	88
+commentary	89	.	PUNCT	Z		.	ROOT	89
+commentary	90	V.	PUNCT	Z		V.	ROOT	90
+commentary	91	3.	PUNCT	Z		3.	advmod	99
+commentary	92	ὅπως	SCONJ	G-		ὅπως	mark	94
+commentary	93	—	ADV	Df		—	fixed	92
+commentary	94	ὄληται	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	ὄλλυμι	acl	91
+commentary	95	finali	ADV	Pp		finali	dep	94
+commentary	96	sensu	ADV	Nb		sensu	dep	94
+commentary	97	accipiendum	ADV	Nb		accipiendum	advmod	96
+commentary	98	esse	ADV	Nb		esseς	dislocated	94
+commentary	99	supra	ADV	Nb		supra	ROOT	99
+commentary	100	p.	PUNCT	Z		p.	punct	99
+commentary	101	33	ADV	Nb		33	ROOT	101
+commentary	102	adnotavi.	PUNCT	Z		adnotavi.	punct	101
+commentary	103	Verba	CCONJ	Df		Verba	ROOT	103
+commentary	104	παρὰ	ADP	R-		παρά	case	105
+commentary	105	θῖνʼ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	θίς	obl	103
+commentary	106	ἁλὸς	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	ἅλς	nmod	105
+commentary	107	ἀτρυγέτοιο	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	ἀτρύγετος	amod	106
+commentary	108	docent	CCONJ	C-		docent	dep	103
+commentary	109	ψηφῖδα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ψηφίς	obj	111
+commentary	110	nomen	ADV	V-		nomen	amod	109
+commentary	111	non	ADV	V-		non	parataxis	103
+commentary	112	de	ADV	Nb		de	dep	103
+commentary	113	suffragiis	ADV	Nb		suffragiis	dislocated	103
+commentary	114	esse	ADV	Nb		esseς	dislocated	103
+commentary	115	usurpatum	ADV	Nb		usurpatum	parataxis	103
+commentary	116	(	PUNCT	G-		(	punct	103
+commentary	117	sic	ADV	Nb		sic	ROOT	117
+commentary	118	enim	ADV	Nb		enim	ROOT	118
+commentary	119	vulgo	ADV	Nb		vulgo	xcomp	120
+commentary	120	interpretabantur	ADV	Nb		interpretabantur	ROOT	120
+commentary	121	ut	ADV	Df		ut	det	122
+commentary	122	ψηφίς	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ψηφίς	appos	120
+commentary	123	dicatur	ADV	Nb		dicatur	conj	120
+commentary	124	pro	ADV	Df		pro	det	125
+commentary	125	ψῆφος	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	ψῆφος	appos	120
+commentary	126	,	PUNCT	Z		,	punct	120
+commentary	127	cuius	ADV	Nb		cuius	ROOT	127
+commentary	128	usus	ADV	Nb		usus	advmod	127
+commentary	129	nullum	ADV	V-		nullum	dislocated	127
+commentary	130	exstat	ADV	Nb		exstat	dislocated	127
+commentary	131	exemplum	ADV	V-		exemplumς	parataxis	127
+commentary	132	)	ADV	Z		)	discourse	127
+commentary	133	,	PUNCT	Z		,	ROOT	133
+commentary	134	sed	CCONJ	C-		sed	ROOT	134
+commentary	135	de	ADV	Nb		de	advmod	134
+commentary	136	silicibus	ADV	V-		silicibus	dislocated	134
+commentary	137	:	PUNCT	Z		:	punct	134
+commentary	138	sunt	ADV	Nb		sunt	ROOT	138
+commentary	139	enim	ADV	Df		enim	advmod	138
+commentary	140	ψηφῖδες	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	ψηφῖς	nsubj	138
+commentary	141	proprie	ADV	V-		proprie	advcl	138
+commentary	142	lapilli	ADV	V-		lapilli	parataxis	138
+commentary	143	qui	ADV	Nb		qui	parataxis	138
+commentary	144	in	ADV	Nb		in	dislocated	138
+commentary	145	litoribus	ADV	Nb		litoribus	dislocated	138
+commentary	146	inveniuntur	NOUN	V-	Case=Nom|Gender=Masc|Number=Sing	inveniuntur	dislocated	138
+commentary	147	:	ADV	Df		:	discourse	138
+commentary	148	αἱ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	ὁ	det	152
+commentary	149	ἐν	ADP	R-		ἐν	case	151
+commentary	150	τοῖς	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	151
+commentary	151	αἰγιαλοῖς	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	αἰγιαλός	nmod	152
+commentary	152	ψηφῖδες	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	ψηφῖς	nsubj	138
+commentary	153	(	PUNCT	Dq	PronType=Rel	(	punct	138
+commentary	154	ἐν	ADP	R-		ἐν	case	156
+commentary	155	τοῖς	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	ὁ	det	156
+commentary	156	αἰγιαλοῖς	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	αἰγιαλός	obl	161
+commentary	157	=	ADV	Df		=	discourse	156
+commentary	158	παρὰ	ADP	R-		παρά	case	159
+commentary	159	θῖνʼ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	θίς	nmod	156
+commentary	160	ἁλός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	ἅλς	nmod	159
+commentary	161	)	ADV	Z		)	ROOT	161
+commentary	162	Luc.	PUNCT	Z		Luc.	ROOT	162
+commentary	163	pisc.	PUNCT	Z		pisc.	ROOT	163
+commentary	164	35	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	35	ROOT	164
+commentary	165	,	PUNCT	Z		,	advmod	164
+commentary	166	Tim.	PUNCT	Z		Tim.	punct	164
+commentary	167	5	ADJ	Ne	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	ROOT	167
+commentary	168	,	PUNCT	Z		,	punct	167
+commentary	169	Parasit.	PUNCT	Z		Parasit.	ROOT	169
+commentary	170	52	ADJ	Ne	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	52	ROOT	170
+commentary	171	;	PUNCT	Z	PronType=Int	;	vocative	170
+commentary	172	fortasse	ADV	Df		fortasseς	parataxis	170
+commentary	173	scribendum	ADV	Df		scribendum	parataxis	170
+commentary	174	ὅπως	SCONJ	G-		ὅπως	mark	176
+commentary	175	ψηφῖσιν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	ψηφίς	obj	176
+commentary	176	ἀγεὶς	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	ἀγεὶς	advcl	170
+commentary	177	κακὸν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	κακός	amod	175
+commentary	178	οἶτον	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	οἶτος	dep	176
+commentary	179	ὄληται	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	ὄλλυμι	amod	180
+commentary	180	βουλῇ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	βουλή	obl	176
+commentary	181	(	PUNCT	Df		(	dep	176
+commentary	182	an	SCONJ	Pr		an	cc	170
+commentary	183	ψηφῖσι	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	ψηφίς	dep	170
+commentary	184	ῥαγεὶς	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	ῥέγλω	advcl	170
+commentary	185	vel	ADV	Df		vel	dep	170
+commentary	186	δαρείς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	δαρείς	conj	170
+commentary	187	,	PUNCT	Z		,	punct	170
+commentary	188	lapidibus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	lapidibus	ROOT	188
+commentary	189	laceratus	NOUN	V-	Case=Nom|Gender=Masc|Number=Sing	laceratus	conj	188
+commentary	190	,	PUNCT	Z		,	ROOT	190
+commentary	191	contusus	NOUN	V-	Case=Nom|Gender=Masc|Number=Sing	contusus	ROOT	191
+commentary	192	?	ADV	Df		?	discourse	191
+commentary	193	)	ADV	Z		)	conj	191
+commentary	194	.	PUNCT	Z		.	ROOT	194
+commentary	195	Stadtmuellerus.	PUNCT	Z		Stadtmuellerus.	ROOT	195
+commentary	196	Bergkio	ADV	Df		Bergkio	advmod	214
+commentary	197	in	ADV	Df		in	advmod	196
+commentary	198	editione	ADV	V-		editione	dislocated	196
+commentary	199	quarta	ADV	Nb		quarta	parataxis	196
+commentary	200	videtur	ADV	Df		videtur	amod	201
+commentary	201	Ψηφῖδι	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	Ψηφῖδι	iobj	196
+commentary	202	scribendum	ADV	Nb		scribendum	amod	201
+commentary	203	ut	ADV	V-		ut	advcl	196
+commentary	204	loci	ADV	Nb		loci	advcl	196
+commentary	205	sit	ADV	Nb		sit	parataxis	196
+commentary	206	appellatio	ADV	Nb		appellatio	parataxis	196
+commentary	207	eius	ADV	Nb		eius	parataxis	196
+commentary	208	fortasse	ADV	Nb		fortasseς	parataxis	196
+commentary	209	ubi	ADV	Nb		ubi	parataxis	196
+commentary	210	tunc	ADV	Nb		tunc	parataxis	196
+commentary	211	populus	ADV	Nb		populus	parataxis	196
+commentary	212	Ephesius	ADV	Nb		Ephesius	advcl	196
+commentary	213	suffragia	ADV	Nb		suffragia	dislocated	196
+commentary	214	ferebat	ADV	V-		ferebat	appos	195
+commentary	215	.	PUNCT	Z		.	punct	214
+commentary	216	Omnium	ADV	Nb		Omnium	ROOT	216
+commentary	217	adhuc	ADV	Nb		adhuc	advmod	216
+commentary	218	plausum	ADV	Nb		plausum	parataxis	216
+commentary	219	tulerat	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	tulerat	parataxis	216
+commentary	220	Cobetus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	Cobetus	parataxis	216
+commentary	221	supplendo	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	supplendo	ccomp	222
+commentary	222	κακός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	κακός	appos	216
+commentary	223	.	PUNCT	Z		.	punct	216
+commentary	224	V.	PUNCT	Z		V.	ROOT	224
+commentary	225	4.	PUNCT	Z		4.	ROOT	225
+commentary	226	Verba	CCONJ	C-		Verba	ROOT	226
+commentary	227	incorrupta	ADV	Df		incorrupta	amod	228
+commentary	228	βουλῇ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	βουλή	nsubj	226
+commentary	229	δημοσίῃ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	δημόσιος	amod	228
+commentary	230	infeliciter	CCONJ	C-		infeliciter	parataxis	226
+commentary	231	temptarunt	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	temptarunt	parataxis	226
+commentary	232	Cobetus	ADV	Nb		Cobetus	vocative	226
+commentary	233	,	PUNCT	Z		,	punct	226
+commentary	234	Hartungius	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	Hartungius	ROOT	234
+commentary	235	,	PUNCT	Z		,	ROOT	235
+commentary	236	Bergkius	ADV	Nb		Bergkius	ROOT	236
+commentary	237	olim.	PUNCT	Z		olim.	punct	236

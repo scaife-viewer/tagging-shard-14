@@ -1,0 +1,111 @@
+12	0	3.	PUNCT	Z		3.	ROOT	0
+12	1	Electa	ADV	S-		Electa	advmod	7
+12	2	quaedam	ADV	Nb		quaedam	dep	1
+12	3	e	PROPN	A-		e	amod	2
+12	4	Didymi	ADV	Df		Didymi	dislocated	1
+12	5	libello	ADV	Df		libello	advmod	4
+12	6	de	ADV	V-		de	dislocated	1
+12	7	mensuris	ADV	V-		mensuris	parataxis	0
+12	8	marmorum.	PUNCT	Z		marmorum.	punct	7
+12	9	(	PUNCT	Df		(	ROOT	9
+12	10	Vide	ADV	Ne		Vide	ROOT	10
+12	11	prol.	PUNCT	Z		prol.	punct	10
+12	12	§	INTJ	V-		§	ROOT	12
+12	13	3.	PUNCT	Z		3.	punct	12
+12	14	14.	PUNCT	Z		14.	punct	12
+12	15	)	ADV	Z		)	ROOT	15
+12	16	1.	PUNCT	Z		1.	punct	15
+12	17	Ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	18
+12	18	πῆχυϲ	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	πῆχυϲ	nsubj	19
+12	19	ἔχει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἔχω	ROOT	19
+12	20	παλαιϲτὰϲ	X	A-		παλαιϲτὰϲ	vocative	19
+12	21	ϛ	NUM	Ma	Case=Nom|Gender=Masc|Number=Plur	ϛ	appos	20
+12	22	´	PROPN	A-	Case=Voc|Gender=Masc|Number=Sing	´	vocative	19
+12	23	,	PUNCT	Z		,	punct	19
+12	24	δακτύλουϲ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	δακτύλουϲ	ROOT	24
+12	25	κδ	NUM	Ma	Case=Nom|Gender=Masc|Number=Plur	κδ	appos	24
+12	26	´	PROPN	Pr	Case=Voc|Gender=Masc|Number=Sing	´	appos	24
+12	27	,	PUNCT	Z		,	iobj	30
+12	28	πόδα	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	πούς	obj	30
+12	29	Πτολομαϊκὸν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	Πτολομαϊκός	amod	28
+12	30	α΄ϛ	ADV	V-		α΄ϛ	ROOT	30
+12	31	,	PUNCT	Z		,	ROOT	31
+12	32	Ῥωμαϊκὸν	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	Ῥωμαϊκός	amod	37
+12	33	δὲ	ADV	Df		δέ	discourse	37
+12	34	πόδα	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	πούς	obj	36
+12	35	α΄	ADV	Df		α	dep	36
+12	36	ϛ	NUM	Ma		ϛ	dep	37
+12	37	ε˝	ADV	Ne		ε˝	dep	31
+12	38	ι˝.	PUNCT	Z		ι˝.	ROOT	38
+13	0	2.	PUNCT	Z		2.	ROOT	0
+13	1	Ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	2
+13	2	ποὺϲ	ADV	Du	PronType=Int	ποὺϲ	nsubj	5
+13	3	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	4
+13	4	Πτολομαϊκὸϲ	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	Πτολομαϊκὸϲ	nmod	2
+13	5	ἔχει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἔχω	parataxis	0
+13	6	εὐθυμετρικοὺϲ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	εὐθυμετρικοὺϲ	dep	5
+13	7	παλαιϲτὰϲ	PROPN	Nb	Case=Voc|Gender=Masc|Number=Sing	παλαιϲτὰϲ	vocative	5
+13	8	δ΄	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	δ	dep	5
+13	9	,	PUNCT	Z		,	appos	2
+13	10	ἐμβαδικοὺϲ	ADJ	A-	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing	ἐμβαδικοὺϲ	amod	11
+13	11	ιϛ΄	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	ιϛ	appos	9
+13	12	,	PUNCT	Z		,	appos	5
+13	13	ϲτερεοὺϲ	X	Ne		ϲτερεοὺϲ	vocative	0
+13	14	ξδ΄	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	ξδ	nmod	13
+13	15	.	PUNCT	Z		.	punct	0
+14	0	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	2
+14	1	δὲ	ADV	Df		δέ	discourse	4
+14	2	Ῥωμαϊκὸϲ	ADJ	A-	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing	Ῥωμαϊκὸϲ	nsubj	4
+14	3	ποὺϲ	ADV	Du	PronType=Int	ποὺϲ	xcomp	4
+14	4	ἔχει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἔχω	ROOT	4
+14	5	εὐθυμετρικοὺϲ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	εὐθυμετρικοὺϲ	dep	4
+14	6	παλαιϲτὰϲ	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	παλαιϲτὰϲ	vocative	4
+14	7	γ΄	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	γ	dep	4
+14	8	γ˝	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	γ˝	dep	4
+14	9	,	PUNCT	Z		,	dep	4
+14	10	ἐμβαδικοὺϲ	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	ἐμβαδικοὺϲ	orphan	12
+14	11	δὲ	ADV	Df		δέ	discourse	10
+14	12	ια΄	ADV	Df		ια	ROOT	12
+14	13	θ˝	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	θ˝	conj	12
+14	14	,	PUNCT	Z		,	parataxis	12
+14	15	ϲτερεοὺϲ	X	Ne		ϲτερεοὺϲ	ROOT	15
+14	16	δὲ	ADV	Df		δέ	discourse	15
+14	17	λϛ	NUM	A-	Case=Gen|Gender=Masc|Number=Plur	λϛ	appos	15
+14	18	´	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	´	nsubj	17
+14	19	κζ˝.	PUNCT	Z		κζ˝.	ROOT	19
+18	0	3.	PUNCT	Z		3.	ROOT	0
+18	1	Ἔχει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἔχω	ROOT	1
+18	2	δὲ	ADV	Df		δέ	discourse	1
+18	3	καὶ	ADV	Df		καί	advmod	4
+18	4	λόγον	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	λόγος	obj	1
+18	5	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	6
+18	6	Πτολομαϊκὸϲ	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	Πτολομαϊκὸϲ	nsubj	1
+18	7	ποὺϲ	ADV	Du	PronType=Int	ποὺϲ	parataxis	1
+18	8	πρὸϲ	ADP	R-		πρὸϲ	dep	1
+18	9	τὸν	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	11
+18	10	βαϲιλικὸν	ADJ	Ne	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	βαϲιλικός	amod	11
+18	11	πῆχυν	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	πῆχυς	obj	1
+18	12	κατὰ	ADP	R-		κατά	case	13
+18	13	εὐθυμετρίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	εὐθυμετρία	obl	1
+18	14	ὡϲ	INTJ	I-		ὡϲ	vocative	1
+18	15	β	INTJ	I-		ΑΒΓ	vocative	1
+18	16	´	X	Ne		´	appos	4
+18	17	πρὸϲ	ADP	R-		πρὸϲ	appos	4
+18	18	γ´.	X	Nb		γ´.	appos	4
+27	0	4.	PUNCT	Z		4.	obj	9
+27	1	Ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	2
+27	2	Ῥωμαϊκὸϲ	ADJ	A-	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing	Ῥωμαϊκὸϲ	nsubj	9
+27	3	ποὺϲ	ADV	Du	PronType=Int	ποὺϲ	appos	2
+27	4	πρὸϲ	ADP	R-		πρὸϲ	obl	9
+27	5	τὸν	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	ὁ	det	7
+27	6	βαϲιλικὸν	ADJ	Ne	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	βαϲιλικός	amod	7
+27	7	πῆχυν	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	πῆχυς	obj	9
+27	8	λόγον	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	λόγος	obj	9
+27	9	ἔχει	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ἔχω	ROOT	9
+27	10	κατὰ	ADP	R-		κατά	case	11
+27	11	εὐθυμετρίαν	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	εὐθυμετρία	obl	9
+27	12	ὡϲ	INTJ	I-		ὡϲ	vocative	9
+27	13	ε	X	F-		ε	vocative	9
+27	14	´	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	´	dep	9
+27	15	πρὸϲ	ADP	R-		πρὸϲ	dep	9
+27	16	θ´.	X	Ne		θ´.	dep	9
